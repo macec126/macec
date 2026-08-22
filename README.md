@@ -1,1 +1,75 @@
-# macec
+# Chris Mace | Cybersecurity Portfolio
+
+Welcome to my cybersecurity college and career portfolio. This portfolio documents my education, developing skills, completed assignments, and progress toward a professional career in cybersecurity.
+
+---
+
+## Professional Introduction
+
+I am a college student preparing for a career in cybersecurity. I am interested in protecting computer systems, personal information, and organizations from security threats. I am developing skills in risk analysis, ethical decision-making, networking, incident response, and professional communication. I am especially interested in cybersecurity analyst work that involves investigating suspicious activity, evaluating evidence, and helping organizations make informed security decisions.
+
+---
+
+# CYBR-2100 Portfolio
+
+This area showcases my work from CYBR-2100. During this course, I will continue developing my understanding of cybersecurity ethics, law, privacy, governance, policy, risk analysis, AI governance, and professional communication. I will add assignments as I complete work that demonstrates my professional growth and is worth showcasing.
+
+## Skills Check
+
+By the end of CYBR-2100, I want my portfolio to demonstrate these three professional competencies:
+
+### 1. Ethical Decision-Making
+
+I want to demonstrate that I can make responsible decisions when investigating and responding to cybersecurity incidents. This includes considering authorization, privacy, possible harm, available evidence, and professional responsibilities.
+
+### 2. Risk Analysis
+
+I want to demonstrate that I can identify threats, vulnerabilities, and potential impacts. I also want to improve my ability to evaluate evidence and recommend reasonable security controls instead of making decisions based on assumptions.
+
+### 3. Professional Communication
+
+I want to demonstrate that I can clearly explain cybersecurity evidence, risks, decisions, and recommendations to both technical and nontechnical audiences.
+
+---
+
+## Issue of Interest: AI-Powered Surveillance
+
+One issue I would like to understand better is AI-powered surveillance. I want to learn how organizations can use AI and surveillance technology to improve security without violating people's privacy rights.
+
+I am also interested in who controls the information being collected, how long it is stored, and how it could be misused. Studying this issue will help me better understand the balance between security, privacy, ethics, and responsible AI governance.
+
+This represents one of my current professional interests, but it does not commit me to using it as my final project topic.
+
+---
+
+## Selected Cybersecurity Work
+
+### Insider-Threat Alert Analysis
+
+I evaluated an AI-generated insider-threat alert while considering the available evidence, employee privacy, authorization, and ethical decision-making. This assignment demonstrated why cybersecurity analysts should investigate carefully instead of treating an automated alert as proof of wrongdoing.
+
+### Digital Asset Risk Assessment
+
+I identified important digital assets and examined the threats, vulnerabilities, and potential impacts connected to each one. I also considered existing protections and recommended security controls that could reduce risk.
+
+---
+
+## Education and Career Goals
+
+### Current Goal
+
+Build a strong foundation in cybersecurity ethics, networking, privacy, governance, risk analysis, and incident response.
+
+### Next Step
+
+Continue completing practical labs and projects that strengthen my technical abilities, professional communication, and decision-making.
+
+### Career Goal
+
+Begin a career as a cybersecurity analyst focused on investigating suspicious activity, analyzing risk, and helping protect systems, information, and people.
+
+---
+
+## Portfolio Development
+
+This portfolio will continue to grow throughout my cybersecurity education. I will update it with projects and assignments that demonstrate my strongest work, developing skills, and professional growth.
