@@ -1,3 +1,4 @@
+
 # Chris Mace | Cybersecurity Portfolio
 
 Welcome to my cybersecurity college and career portfolio. This portfolio documents my education, developing skills, completed assignments, and progress toward a professional career in cybersecurity.
@@ -54,6 +55,49 @@ I identified important digital assets and examined the threats, vulnerabilities,
 
 ---
 
+# Human Security
+
+## Identity Protection & Authentication
+
+**Course:** CYBR-1100 – Security Awareness  
+**Knowledge Area:** Human Security  
+**Crosscutting Concepts:** Confidentiality, Risk, and Adversarial Thinking  
+**Skills Demonstrated:** Account security, identity verification, risk analysis, and multifactor authentication
+
+### Overview
+
+For this project, I looked at ways to protect important online accounts and personal information. I reviewed passwords, multifactor authentication, recovery options, security alerts, and passkeys. I also learned how AI can copy someone's voice, appearance, or writing style. This showed me why people should not trust a message only because it looks or sounds real. Good account security requires strong security settings and careful decisions from the person using the account.
+
+### My Work
+
+I reviewed passwords, recovery methods, security alerts, and multifactor authentication for important accounts. I also compared different ways to verify identity. I learned that authentication and recovery codes should never be shared with anyone.
+
+### What I Learned
+
+I learned that a strong password is only one part of account security. Important accounts should have unique passwords, multifactor authentication, secure recovery options, and security alerts. Authentication codes must be treated like passwords because someone could use a stolen code to access an account. AI makes scams harder to recognize because it can copy voices, pictures, and writing styles. Even if a message sounds like someone I know, I should not automatically trust it. I should slow down, avoid sharing information, and contact the person using a phone number or account that I already know is real.
+
+### Cybersecurity Connection
+
+This project connects to Human Security because attackers often target people instead of computer systems. Confidentiality means keeping passwords, codes, and personal information private. Risk means understanding what could happen if an account is compromised. Adversarial Thinking means considering how a criminal might try to trick someone.
+
+### AI & Identity Verification
+
+AI can create convincing voices, pictures, videos, and messages. Because of this, recognizing someone is not enough to prove their identity. If I receive a suspicious or urgent request, I should contact the person through a trusted phone number or account. I should never verify the request using only the contact information in the message. I should also refuse to share passwords, authentication codes, or recovery codes, even if the person claims there is an emergency.
+
+### Professional Connection
+
+This project relates to cybersecurity analyst work because analysts investigate suspicious activity, review evidence, and help protect accounts. They must verify information before deciding whether an alert or request is legitimate.
+
+### Reflection
+
+The three most important practices I would recommend are:
+
+1. Use a different password for every important account.
+2. Turn on multifactor authentication.
+3. Independently verify unusual requests before sharing information or codes.
+
+---
+
 ## Education and Career Goals
 
 ### Current Goal
@@ -72,4 +116,4 @@ Begin a career as a cybersecurity analyst focused on investigating suspicious ac
 
 ## Portfolio Development
 
-This portfolio will continue to grow throughout my cybersecurity education. I will update it with projects and assignments that demonstrate my strongest work, developing skills, and professional growth.
+This portfolio will continue to grow throughout my cybersecurity education. I will update it with projects and assignments that demonstrate my strongest work, developing skills, and professional growth
