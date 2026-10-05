@@ -1,100 +1,249 @@
-
 # Chris Mace | Cybersecurity Portfolio
 
-Welcome to my cybersecurity college and career portfolio. This portfolio documents my education, developing skills, completed assignments, and progress toward a professional career in cybersecurity.
+Cybersecurity student at Hocking College working toward a career as a cybersecurity analyst.
+
+This portfolio includes my coursework, completed projects, and developing skills.
+
+## Explore My Portfolio
+
+- [About Me](#about-me)
+- [CYBR-2100 Portfolio](#cybr-2100-portfolio)
+- [Human Security](#human-security)
+- [Certifications & Credentials](#certifications--credentials)
+- [Education and Career Goals](#education-and-career-goals)
 
 ---
 
-## Professional Introduction
+## About Me
 
-I am a college student preparing for a career in cybersecurity. I am interested in protecting computer systems, personal information, and organizations from security threats. I am developing skills in risk analysis, ethical decision-making, networking, incident response, and professional communication. I am especially interested in cybersecurity analyst work that involves investigating suspicious activity, evaluating evidence, and helping organizations make informed security decisions.
+I am interested in protecting computer systems and personal information. My goal is to become a cybersecurity analyst who investigates suspicious activity and helps organizations make informed decisions.
 
----
-
-# CYBR-2100 Portfolio
-
-This area showcases my work from CYBR-2100. During this course, I will continue developing my understanding of cybersecurity ethics, law, privacy, governance, policy, risk analysis, AI governance, and professional communication. I will add assignments as I complete work that demonstrates my professional growth and is worth showcasing.
-
-## Skills Check
-
-By the end of CYBR-2100, I want my portfolio to demonstrate these three professional competencies:
-
-### 1. Ethical Decision-Making
-
-I want to demonstrate that I can make responsible decisions when investigating and responding to cybersecurity incidents. This includes considering authorization, privacy, possible harm, available evidence, and professional responsibilities.
-
-### 2. Risk Analysis
-
-I want to demonstrate that I can identify threats, vulnerabilities, and potential impacts. I also want to improve my ability to evaluate evidence and recommend reasonable security controls instead of making decisions based on assumptions.
-
-### 3. Professional Communication
-
-I want to demonstrate that I can clearly explain cybersecurity evidence, risks, decisions, and recommendations to both technical and nontechnical audiences.
+I am building skills in networking and incident response. My coursework also focuses on risk analysis and ethical decision-making. I want to explain security problems clearly to both technical and nontechnical audiences.
 
 ---
 
-## Issue of Interest: AI-Powered Surveillance
+## CYBR-2100 Portfolio
 
-One issue I would like to understand better is AI-powered surveillance. I want to learn how organizations can use AI and surveillance technology to improve security without violating people's privacy rights.
+This section covers my work in cybersecurity ethics and professional responsibilities. Topics include privacy and law along with governance and responsible AI use.
 
-I am also interested in who controls the information being collected, how long it is stored, and how it could be misused. Studying this issue will help me better understand the balance between security, privacy, ethics, and responsible AI governance.
+### Skills Check
 
-This represents one of my current professional interests, but it does not commit me to using it as my final project topic.
+By the end of CYBR-2100, I want my work to demonstrate three professional competencies.
+
+**1. Ethical Decision-Making**
+
+Make responsible decisions during cybersecurity investigations. Consider authorization and privacy before taking action. Use evidence and consider how decisions could affect others.
+
+**2. Risk Analysis**
+
+Identify important assets and the threats they face. Evaluate vulnerabilities and potential harm. Recommend security controls based on evidence.
+
+**3. Professional Communication**
+
+Explain security findings and recommendations in plain language. Make information useful to both technical and nontechnical audiences.
+
+### Issue of Interest: AI-Powered Surveillance
+
+I want to understand how organizations can use AI-powered surveillance while respecting privacy.
+
+My questions include:
+
+- Who controls the information collected?
+- How long is that information stored?
+- How could it be misused?
+- What safeguards help protect people's rights?
+
+This is a current interest. It does not commit me to a final project topic.
+
+### Selected Cybersecurity Work
+
+#### Insider-Threat Alert Analysis
+
+I evaluated an AI-generated insider-threat alert. I considered the evidence and the employee's privacy. I also examined authorization and ethical responsibilities.
+
+This assignment showed me why an automated alert should be investigated before it is treated as proof of wrongdoing.
+
+#### Digital Asset Risk Assessment
+
+I identified important digital assets and examined their risks. I considered threats and vulnerabilities along with the potential impact of an incident.
+
+I reviewed existing protections and recommended controls that could reduce risk.
 
 ---
 
-## Selected Cybersecurity Work
+## Human Security
 
-### Insider-Threat Alert Analysis
+This section focuses on how people recognize threats and make safer security decisions.
 
-I evaluated an AI-generated insider-threat alert while considering the available evidence, employee privacy, authorization, and ethical decision-making. This assignment demonstrated why cybersecurity analysts should investigate carefully instead of treating an automated alert as proof of wrongdoing.
-
-### Digital Asset Risk Assessment
-
-I identified important digital assets and examined the threats, vulnerabilities, and potential impacts connected to each one. I also considered existing protections and recommended security controls that could reduce risk.
-
----
-
-# Human Security
-
-## Identity Protection & Authentication
+### Identity Protection & Authentication
 
 **Course:** CYBR-1100 – Security Awareness  
 **Knowledge Area:** Human Security  
 **Crosscutting Concepts:** Confidentiality, Risk, and Adversarial Thinking  
 **Skills Demonstrated:** Account security, identity verification, risk analysis, and multifactor authentication
 
-### Overview
+#### Overview
 
-For this project, I looked at ways to protect important online accounts and personal information. I reviewed passwords, multifactor authentication, recovery options, security alerts, and passkeys. I also learned how AI can copy someone's voice, appearance, or writing style. This showed me why people should not trust a message only because it looks or sounds real. Good account security requires strong security settings and careful decisions from the person using the account.
+This project explored ways to protect online accounts and personal information. I reviewed passwords and multifactor authentication. I also studied recovery options and security alerts.
 
-### My Work
+Learning about AI impersonation showed me why a familiar voice or appearance is not enough to verify someone's identity.
 
-I reviewed passwords, recovery methods, security alerts, and multifactor authentication for important accounts. I also compared different ways to verify identity. I learned that authentication and recovery codes should never be shared with anyone.
+#### My Work
 
-### What I Learned
+I reviewed account protection and recovery methods. I compared ways to verify identity and explored passkeys. I also considered how stolen authentication or recovery codes could put an account at risk.
 
-I learned that a strong password is only one part of account security. Important accounts should have unique passwords, multifactor authentication, secure recovery options, and security alerts. Authentication codes must be treated like passwords because someone could use a stolen code to access an account. AI makes scams harder to recognize because it can copy voices, pictures, and writing styles. Even if a message sounds like someone I know, I should not automatically trust it. I should slow down, avoid sharing information, and contact the person using a phone number or account that I already know is real.
+#### What I Learned
 
-### Cybersecurity Connection
+A strong password is only one part of account security. Unique passwords and multifactor authentication help protect important accounts. Secure recovery options also matter.
 
-This project connects to Human Security because attackers often target people instead of computer systems. Confidentiality means keeping passwords, codes, and personal information private. Risk means understanding what could happen if an account is compromised. Adversarial Thinking means considering how a criminal might try to trick someone.
+I learned to keep authentication and recovery codes private. When a request seems unusual, I should verify it through a contact method I already trust.
 
-### AI & Identity Verification
+#### Cybersecurity Connection
 
-AI can create convincing voices, pictures, videos, and messages. Because of this, recognizing someone is not enough to prove their identity. If I receive a suspicious or urgent request, I should contact the person through a trusted phone number or account. I should never verify the request using only the contact information in the message. I should also refuse to share passwords, authentication codes, or recovery codes, even if the person claims there is an emergency.
+- **Confidentiality:** Protect passwords and personal information.
+- **Risk:** Consider what could happen if an account is compromised.
+- **Adversarial Thinking:** Think about how an attacker might trick someone.
 
-### Professional Connection
+#### AI & Identity Verification
 
-This project relates to cybersecurity analyst work because analysts investigate suspicious activity, review evidence, and help protect accounts. They must verify information before deciding whether an alert or request is legitimate.
+AI can imitate voices and create convincing images or messages. A request can look familiar and still be fraudulent.
 
-### Reflection
+For unusual requests, I should contact the person through a known number or account. I should not rely only on contact details supplied in the suspicious message.
 
-The three most important practices I would recommend are:
+#### Professional Connection
+
+Cybersecurity analysts investigate suspicious activity and review evidence. This project helped me practice checking information before deciding whether a request is legitimate.
+
+#### Reflection
+
+My three main takeaways are:
 
 1. Use a different password for every important account.
 2. Turn on multifactor authentication.
-3. Independently verify unusual requests before sharing information or codes.
+3. Independently verify unusual requests before sharing information.
+
+---
+
+### Phishing Awareness Training
+
+**Course:** CYBR-1100 – Security Awareness  
+**Knowledge Area:** Human Security  
+**Crosscutting Concepts:** Confidentiality, Risk, and Adversarial Thinking  
+**Skills Demonstrated:** Recognizing phishing, verifying requests, reporting suspicious messages, and multifactor authentication
+
+#### Overview
+
+This training is designed for HCSG staff. It includes a short tip sheet and a five-question knowledge check.
+
+The goal is to help staff recognize suspicious messages and choose safe actions. The training uses guidance from NIST and CISA.
+
+#### My Work
+
+##### Stop and Check: Avoiding Phishing at HCSG
+
+Phishing messages try to trick people into opening harmful links or sharing sensitive information. They may pretend to come from a trusted company or someone at work. [1]
+
+**Three Warning Signs**
+
+1. The message pressures you to act immediately.
+2. The sender's email address does not match the organization they claim to represent.
+3. The message asks for sensitive information such as account details. [1]
+
+**Five Actions to Take**
+
+1. **Pause before acting.** Take time to check an urgent request. [1]
+2. **Verify the sender.** Use a known phone number or contact details from the company's official website. Do not use the details in the suspicious message. [1]
+3. **Avoid suspicious links and attachments.** Do not reply or click an unsubscribe link in a suspected phishing message. [1]
+4. **Report it and delete it.** Use your email service's reporting option before deleting the message. [2]
+5. **Turn on multifactor authentication (MFA).** This adds another identity check when signing in. Use it on accounts that offer it. [2]
+
+**Sources**
+
+[1] [NIST — Phishing](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing)
+
+[2] [CISA — Four Easy Ways to Stay Safe Online](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-4-Easy-Ways-Stay-Safe-Online-Tip-Sheet.pdf)
+
+##### Knowledge Check
+
+**1. A message says you must act immediately. What should you do first?**
+
+- A. Follow its instructions quickly.
+- B. Pause and check the request.
+- C. Send it to coworkers so they can follow the instructions.
+
+**2. How should you verify an unexpected request from your manager?**
+
+- A. Reply to the suspicious message.
+- B. Call the number included in the message.
+- C. Contact your manager using a number you already know is real.
+
+**3. A suspicious email includes an unsubscribe link. What should you do?**
+
+- A. Avoid clicking the link.
+- B. Click it to stop future messages.
+- C. Reply and ask to be removed.
+
+**4. What should you do with a suspected phishing email?**
+
+- A. Forward it to everyone.
+- B. Use the reporting option and then delete it.
+- C. Reply to ask if it is real.
+
+**5. Which setting adds another identity check when signing in?**
+
+- A. Automatic email forwarding.
+- B. Dark mode.
+- C. Multifactor authentication.
+
+<details>
+<summary><strong>Answer Key — Click to Expand</strong></summary>
+
+1. **B** — Pause and check urgent requests. [1]
+2. **C** — Use known contact information to verify the sender. [1]
+3. **A** — Avoid clicking suspicious unsubscribe links. [1]
+4. **B** — Report phishing messages and delete them. [2]
+5. **C** — MFA adds protection beyond a password. [2]
+
+Sources are listed at the bottom of the tip sheet.
+
+</details>
+
+#### Cybersecurity Connection
+
+This training connects human decisions to account and information security. It encourages staff to question unusual requests and verify the sender before acting.
+
+#### Professional Connection
+
+Creating clear training materials is a way to communicate security practices to nontechnical staff. This project focuses on specific actions that people can use at work.
+
+#### AI Use and Source Check
+
+AI helped draft this training. The factual claims were checked against the NIST and CISA sources listed above.
+
+---
+
+## Certifications & Credentials
+
+### Introduction to Cybersecurity — Course Completion
+
+**Issuer:** Cisco Networking Academy  
+**Academy:** Hocking College  
+**Status:** Course completed  
+**Final Exam Score:** 97%  
+**Course Badge:** 
+
+### Introduction to Cybersecurity — Module Achievements
+
+**Issuer:** Cisco Networking Academy  
+**Academy:** Hocking College
+
+- **Cybersecurity Administration** — August 22, 2026
+- **Threat Analysis** — August 30, 2026
+- **System Safeguards** — September 7, 2026
+- **Network Defense** — September 14, 2026
+- **Resource Specialist** — September 28, 2026
+
+These are individual module achievements within the Introduction to Cybersecurity course.
 
 ---
 
@@ -102,18 +251,18 @@ The three most important practices I would recommend are:
 
 ### Current Goal
 
-Build a strong foundation in cybersecurity ethics, networking, privacy, governance, risk analysis, and incident response.
+Build a strong foundation in cybersecurity and networking. Continue developing my understanding of privacy and ethical decision-making.
 
 ### Next Step
 
-Continue completing practical labs and projects that strengthen my technical abilities, professional communication, and decision-making.
+Complete practical labs and projects that strengthen my technical skills. Practice investigating incidents and explaining my findings.
 
 ### Career Goal
 
-Begin a career as a cybersecurity analyst focused on investigating suspicious activity, analyzing risk, and helping protect systems, information, and people.
+Become a cybersecurity analyst who investigates suspicious activity and evaluates risk. Help protect systems and the people who use them.
 
 ---
 
 ## Portfolio Development
 
-This portfolio will continue to grow throughout my cybersecurity education. I will update it with projects and assignments that demonstrate my strongest work, developing skills, and professional growth
+I will continue updating this portfolio as I complete coursework and practical projects. Each addition will show what I worked on and how my skills are developing.
