@@ -261,7 +261,7 @@ The priorities follow the office profile and NIST small business guidance on MFA
 
 **Security tool evidence**
 
-**Scan screenshot:** Add the sanitized scan screenshot here before publishing.
+<img width="446" height="265" alt="{06E72199-0643-44A2-B158-23D4B57A2AB2}" src="https://github.com/user-attachments/assets/9e3a3640-015a-4a2c-8427-18f7657b6e30" />
 
 **Device actually scanned:** My desktop PC.  
 **Tool:** Windows Security, Virus & threat protection. **Scan result:** Add the result shown in the screenshot.  
@@ -282,7 +282,6 @@ The priorities follow the office profile and NIST small business guidance on MFA
 - National Institute of Standards and Technology. [Cybersecurity Basics](https://www.nist.gov/itl/smallbusinesscyber/cybersecurity-basics).
 - National Institute of Standards and Technology. [NIST Cybersecurity Framework 2.0: Small Business Quick Start Guide](https://csrc.nist.gov/pubs/sp/1300/final).
 
-The sanitized capstone brief is included above in this Professional Portfolio section.
 
 ---
 
