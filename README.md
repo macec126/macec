@@ -9,6 +9,7 @@ This portfolio includes my coursework, completed projects, and developing skills
 - [About Me](#about-me)
 - [CYBR-2100 Portfolio](#cybr-2100-portfolio)
 - [Human Security](#human-security)
+- [Professional Portfolio](#professional-portfolio)
 - [Certifications & Credentials](#certifications--credentials)
 - [Education and Career Goals](#education-and-career-goals)
 
@@ -219,6 +220,69 @@ Creating clear training materials is a way to communicate security practices to 
 #### AI Use and Source Check
 
 AI helped draft this training. The factual claims were checked against the NIST and CISA sources listed above.
+
+---
+
+## Professional Portfolio
+
+### HCSG Satellite Office Security Brief
+
+**Course:** CYBR-1100 – Security Awareness  
+**Project:** Week 8 Capstone (fictional office)
+
+**To:** Office Manager  
+**From:** Chris Mace
+
+The Logan area office has several easy paths to account theft or data loss. I recommend fixing the exposed accounts and laptops first. Then the office should protect phones and set up a second backup. These are recommendations based on the fictional office profile. No HCSG systems were accessed or scanned.
+
+#### Actions to Take First
+
+1. **Secure accounts.** Stop using the shared frontdesk login. Give each person their own account so changes can be traced to the right user. Turn on multifactor authentication for work email, billing, and file storage. Replace the passwords on sticky notes. The billing clerk should change the reused work password and use a unique one. A password manager can help staff keep track of them. The fake CEO voicemail is a reminder to check unusual requests through a known number before buying gift cards.
+2. **Fix the laptops.** Ask IT to restore the firewall on the laptop where it was turned off. Install the overdue Windows updates on two laptops. Update Microsoft Defender protection information on the affected laptop and confirm protection is current on all five. Turn on full disk encryption and store recovery keys safely with IT. These steps make it harder for malware to spread or for someone to read data from a lost laptop. The clicked shipping link should be reported to IT. IT can check that employee’s account and laptop for signs of compromise.
+3. **Protect work email on phones.** Require a screen lock before a personal phone can access work email. Set up a lost device feature where the phone supports it and require staff to report a loss right away. IT should be able to revoke the lost phone’s work sessions. The four-day delay after the last loss may have left work email exposed.
+4. **Protect files and backups.** Limit editing of contracts and billing spreadsheets to staff who need it. Keep the existing USB backup in a locked place while IT sets up a second protected backup in another location or a managed service. Test that files can be restored. A single USB drive in an unlocked drawer could be lost, stolen, or damaged along with the office.
+
+#### Staff Guidance and Follow-up
+
+Staff should stop pasting client emails into a public chatbot until HCSG has approved a safe way to use AI. Any AI-drafted reply should be checked by a person before it goes to a client. The manager should also remind staff to report suspicious links, lost devices, and unusual payment requests at once. IT can review the fixes after they are made and confirm that backups restore properly.
+
+The priorities follow the office profile and NIST small business guidance on MFA, updates, encryption, and tested backups. The profile shows gaps, but it does not prove that an attacker accessed the office.
+
+#### Supporting Evidence
+
+**Risks from the office profile**
+
+1. **Shared accounts and weak passwords.** Three people use frontdesk, MFA is off, passwords are on sticky notes, and the billing clerk reuses a personal password. One stolen password could expose email or billing data. A shared login also makes it hard to tell who changed a file.
+2. **Laptops without current protections.** Two laptops are more than three months behind on updates. One has old Defender definitions, one has its firewall off, and none has disk encryption. A laptop could be easier to infect or its files could be read if it is lost.
+3. **Unprotected personal phones.** Staff use personal phones for work email without required screen locks or lost device features. One phone loss went unreported for four days. Someone who finds an unlocked phone could read work messages before access is removed.
+4. **One exposed backup and broad file access.** All staff can edit contracts and billing files. The only backup is on a USB drive in an unlocked drawer. A mistake, theft, ransomware attack, or building problem could leave files altered or unavailable.
+5. **Public chatbot use.** Staff paste client emails into a free public chatbot. The office has no rule for what can be shared and does not check replies. Client information might be disclosed to a third party or an inaccurate answer could be sent.
+6. **Recent social engineering.** A fake CEO asked for gift cards, and a worker clicked a fake shipping link. The office could lose money or expose an account if staff act on these messages without checking and reporting them.
+
+**Security tool evidence**
+
+**Scan screenshot:** Add the sanitized scan screenshot here before publishing.
+
+**Device actually scanned:** My desktop PC.  
+**Tool:** Windows Security, Virus & threat protection. **Scan result:** Add the result shown in the screenshot.  
+**What it means:** A scan can help find malware or outdated protection on the device scanned. A clean result does not prove that all threats are absent. This result says nothing about the fictional HCSG laptops because they were not scanned. A similar tool could help IT check the laptop with outdated Defender protection and the laptop involved in the shipping link incident.
+
+#### AI Verification Log
+
+**AI tool used:** ChatGPT. The fictional office profile was used to draft this brief. No real HCSG accounts or client information were entered.
+
+- **Claim:** MFA helps protect accounts even if a password is exposed. **Checked against:** NIST Cybersecurity Basics. **Result:** Verified.
+- **Claim:** Small businesses should apply software updates and use full disk encryption for laptops. **Checked against:** NIST Small Business Quick Start Guide. **Result:** Verified.
+- **Claim:** Backups should be kept regularly and tested for recovery. **Checked against:** NIST Small Business Quick Start Guide. **Result:** Verified.
+- **Claim:** A clean scan would prove the HCSG office is safe. **Checked against:** The scope of the assignment and the fact that no HCSG device was scanned. **Result:** Corrected. A scan only reports on the device and checks actually used.
+
+#### Sources and Portfolio
+
+- HCSG Satellite Office Profile: Logan Area. Fictional course case supplied with the assignment.
+- National Institute of Standards and Technology. [Cybersecurity Basics](https://www.nist.gov/itl/smallbusinesscyber/cybersecurity-basics).
+- National Institute of Standards and Technology. [NIST Cybersecurity Framework 2.0: Small Business Quick Start Guide](https://csrc.nist.gov/pubs/sp/1300/final).
+
+The sanitized capstone brief is included above in this Professional Portfolio section.
 
 ---
 
